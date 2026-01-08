@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\models\\dto\u0027s\\currencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\models\\dto\u0027s\\currencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\models\\dto\u0027s\\exchangeratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\models\\dto\u0027s\\exchangeratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\services\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\services\\statsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\services\\currenciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\services\\currenciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\services\\exchangeratesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\services\\exchangeratesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\models\\dto\u0027s\\statsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\models\\dto\u0027s\\statsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\models\\dto\u0027s\\exchangeratehistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\models\\dto\u0027s\\exchangeratehistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|d:\\projects\\cbrcurrency\\cbrcurrenctapi\\cbrcurrenctapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B5CC036-FBE4-4FAC-A38C-E1BE3B12ABF3}|CbrCurrenctApi\\CbrCurrencyApi.csproj|solutionrelative:cbrcurrenctapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Models\\Currency.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\Currency.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Models\\Currency.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:06:34.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatsController.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Controllers\\StatsController.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Controllers\\StatsController.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Controllers\\StatsController.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Controllers\\StatsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:06:05.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrenciesController.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Controllers\\CurrenciesController.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Controllers\\CurrenciesController.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Controllers\\CurrenciesController.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Controllers\\CurrenciesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:05:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrenciesService.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Services\\CurrenciesService.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Services\\CurrenciesService.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Services\\CurrenciesService.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Services\\CurrenciesService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:05:22.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatsDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\DTO\u0027s\\StatsDto.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Models\\DTO\u0027s\\StatsDto.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\DTO\u0027s\\StatsDto.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Models\\DTO\u0027s\\StatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:05:15.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExchangeRateHistoryDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\DTO\u0027s\\ExchangeRateHistoryDto.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Models\\DTO\u0027s\\ExchangeRateHistoryDto.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\DTO\u0027s\\ExchangeRateHistoryDto.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Models\\DTO\u0027s\\ExchangeRateHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:05:10.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\DTO\u0027s\\CurrencyDto.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Models\\DTO\u0027s\\CurrencyDto.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\DTO\u0027s\\CurrencyDto.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Models\\DTO\u0027s\\CurrencyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:04:43.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\appsettings.json",
+              "RelativeToolTip": "CbrCurrenctApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T04:30:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Program.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Program.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:30:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatsService.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Services\\StatsService.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Services\\StatsService.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Services\\StatsService.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Services\\StatsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:29:45.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Controllers\\RatesController.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Controllers\\RatesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:09:48.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExchangeRatesService.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Services\\ExchangeRatesService.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Services\\ExchangeRatesService.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Services\\ExchangeRatesService.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Services\\ExchangeRatesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:09:13.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateDto.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\DTO\u0027s\\ExchangeRateDto.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Models\\DTO\u0027s\\ExchangeRateDto.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\DTO\u0027s\\ExchangeRateDto.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Models\\DTO\u0027s\\ExchangeRateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:08:53.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "CbrCurrenctApi\\Models\\ExchangeRate.cs",
+              "ToolTip": "D:\\Projects\\CbrCurrency\\CbrCurrenctApi\\CbrCurrenctApi\\Models\\ExchangeRate.cs",
+              "RelativeToolTip": "CbrCurrenctApi\\Models\\ExchangeRate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:06:24.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

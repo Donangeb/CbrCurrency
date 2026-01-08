@@ -1,0 +1,6 @@
+@CbrCurrenctApi_HostAddress = http://localhost:5125
+
+GET {{CbrCurrenctApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
