@@ -49,7 +49,7 @@
 
 <script setup>
 import { ref, computed } from 'vue'
-import { formatRate, formatChange } from '@/utils/formatters'
+import { formatRate } from '@/utils/formatters'
 
 const props = defineProps({
   rates: {

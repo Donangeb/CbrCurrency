@@ -9,7 +9,7 @@
       </div>
 
       <!-- Filters -->
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+      <div class="filters-grid">
         <DatePicker
           v-model="selectedDate"
           label="Дата"
@@ -94,5 +94,18 @@ onMounted(() => {
 
 .text-secondary {
   color: var(--text-secondary);
+}
+
+.filters-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .filters-grid {
+    grid-template-columns: 1fr;
+  }
 }
 </style>

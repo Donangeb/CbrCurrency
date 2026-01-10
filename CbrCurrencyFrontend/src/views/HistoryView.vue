@@ -8,9 +8,9 @@
       
       <!-- Filters -->
       <div class="filters-card">
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div>
-            <label class="block mb-2 font-medium">
+        <div class="filters-grid">
+          <div class="filter-item">
+            <label class="filter-label">
               Валюта
             </label>
             <select
@@ -25,13 +25,15 @@
             </select>
           </div>
           
-          <DateRangePicker
-            v-model:from-date="fromDate"
-            v-model:to-date="toDate"
-            label="Период"
-            @update:from-date="loadHistory"
-            @update:to-date="loadHistory"
-          />
+          <div class="filter-item date-range-item">
+            <DateRangePicker
+              v-model:from-date="fromDate"
+              v-model:to-date="toDate"
+              label="Период"
+              @update:from-date="loadHistory"
+              @update:to-date="loadHistory"
+            />
+          </div>
         </div>
       </div>
 
@@ -111,23 +113,61 @@ onMounted(async () => {
   color: var(--text-primary);
 }
 
+.filter-label {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 0;
+}
+
+.filters-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+  align-items: start;
+}
+
+@media (max-width: 768px) {
+  .filters-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.filter-item {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.date-range-item {
+  display: flex;
+  flex-direction: column;
+}
+
 .currency-select {
   display: block;
   width: 100%;
-  padding: 0.75rem 1rem;
+  padding: 11px 16px;
   background-color: var(--bg-secondary);
   color: var(--text-primary);
-  border: 1px solid rgba(209, 213, 219, 0.3);
-  border-radius: 0.5rem;
+  border: 1px solid rgb(209, 213, 219);
+  border-radius: 8px;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease;
+  min-height: 48px;
+  box-sizing: border-box;
+}
+
+.dark .currency-select {
+  border-color: rgb(55, 65, 81);
 }
 
 .currency-select:focus {
   outline: none;
-  ring: 2px;
-  ring-color: var(--primary-color);
   border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(0, 153, 153, 0.1);
 }
 
 .currency-select option {
